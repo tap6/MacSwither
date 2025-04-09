@@ -1,0 +1,17 @@
+{
+    "BackupTargets":{
+        "plist_files": [
+            "com.apple.dock",
+            ".GlobalPreferences",
+            "com.apple.WindowManager",
+            "com.apple.finder",
+            "com.apple.HIToolbox",
+            "NSGlobalDomain"
+        ]
+    },
+    "SelfSetting":{
+        "language":"en",
+        "startwithreboot":false,
+        "adding2focus":false
+    }
+}
