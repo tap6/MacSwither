@@ -14,6 +14,3 @@ python3 gui.py
 
 # 保持终端窗口打开
 read -p "按回车键退出..."
-
-# 隐藏终端窗口
-osascript -e 'tell application "Terminal" to close (every window whose name contains "start.command")' 

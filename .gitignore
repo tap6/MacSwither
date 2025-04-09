@@ -1,3 +1,6 @@
+# 屏蔽snapshot/目录下的内容上传
+snapshot/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
